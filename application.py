@@ -36,9 +36,9 @@ welcome = """
   <style>
   body {
     color: #ffffff;
-    background-color: #ff0c00;
+    background-color: #E0E0E0;
     font-family: Arial, sans-serif;
-    font-size:16px;
+    font-size:14px;
     -moz-transition-property: text-shadow;
     -moz-transition-duration: 4s;
     -webkit-transition-property: text-shadow;
@@ -114,7 +114,6 @@ welcome = """
   <div class="linksColumn"> 
     <h2>What's Next?</h2>
     <ul>
-    <li><a href="www.jarbasteixeira.pro.br">Jarbas Teixeira</a></li>
     <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/">AWS Elastic Beanstalk overview</a></li>
     <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/index.html?concepts.html">AWS Elastic Beanstalk concepts</a></li>
     <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/create_deploy_Python_django.html">Deploy a Django Application to AWS Elastic Beanstalk</a></li>
