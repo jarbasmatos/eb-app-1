@@ -108,6 +108,7 @@ welcome = """
   <div class="textColumn">
     <h1>Sicoob | ACT</h1>
     <h2>Jarbas | ACT</h2>
+    <h2>Viva a vida</h2>
     <h2>TI | ACT</h2>
     <p>Your first AWS Elastic Beanstalk Python Application is now running on your own dedicated environment in the AWS Cloud</p>
     <p>This environment is launched with Elastic Beanstalk Python Platform</p>
