@@ -107,6 +107,8 @@ welcome = """
 <body id="sample">
   <div class="textColumn">
     <h1>Sicoob | ACT</h1>
+    <h2>Jarbas | ACT</h2>
+    <h2>TI | ACT</h2>
     <p>Your first AWS Elastic Beanstalk Python Application is now running on your own dedicated environment in the AWS Cloud</p>
     <p>This environment is launched with Elastic Beanstalk Python Platform</p>
   </div>
@@ -114,7 +116,7 @@ welcome = """
   <div class="linksColumn"> 
     <h2>What's Next?</h2>
     <ul>
-    <li><a href="https://www.lojadoprofissional.com.br/conjunto-mopinho-bralimpia-vermelho">Mopinha</a></li>
+    <li><a href="https://www.sicoob.com.br/">Sicoob</a></li>
     <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/">AWS Elastic Beanstalk overview</a></li>
     <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/index.html?concepts.html">AWS Elastic Beanstalk concepts</a></li>
     <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/create_deploy_Python_django.html">Deploy a Django Application to AWS Elastic Beanstalk</a></li>
