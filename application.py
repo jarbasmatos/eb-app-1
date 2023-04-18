@@ -106,7 +106,7 @@ welcome = """
 </head>
 <body id="sample">
   <div class="textColumn">
-    <h1>Sicoob | ACT</h1>
+    <h1>Sicoob || ACT</h1>
     <h2>Jarbas | ACT</h2>
     <h2>Viva a vida</h2>
     <h2>TI | ACT</h2>
